@@ -1,0 +1,5 @@
+{
+  "name": "Vietnam Salary Calculator (NET-GROSS)",
+  "description": "A professional tool to calculate NET to GROSS and GROSS to NET salary with detailed tax and insurance breakdown, supporting Excel/PDF export.",
+  "requestFramePermissions": []
+}
